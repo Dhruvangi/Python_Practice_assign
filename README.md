@@ -1,2 +1,2 @@
-# Python_Practice_assign
+# Python_Practice_assignments
 Python_Fundamentals
